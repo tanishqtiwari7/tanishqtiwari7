@@ -42,15 +42,10 @@
 ## 📊 GitHub Stats
 
 ![Tanishq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqtiwari7&show_icons=true&theme=radical&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqtiwari7&layout=compact&theme=radical)
+
 
 ---
 
-## 👀 Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tanishqtiwari7&label=Profile%20views&color=0e75b6&style=flat)
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 > Let’s build something great, together! 🚀
